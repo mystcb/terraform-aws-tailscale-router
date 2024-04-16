@@ -80,8 +80,8 @@ module "tailscale_router" {
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.6.0, < 1.7.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.36 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.6.0, < 1.8.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.45 |
 | <a name="requirement_tailscale"></a> [tailscale](#requirement\_tailscale) | >= 0.15.0 |
 
 ## Modules
